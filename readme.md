@@ -172,3 +172,10 @@ Fichier .gitignore :
 * Dans un de vos repository, ajoutez un nouveau fichier (.js, .html, .autre, on s'en fiche)
 * Une fois le fichier ajouté, publier la modification sur github (votre repo doit avoir le fichier)
 * Débrouillez-vous ensuite pour supprimer le fichier que vous venez d'ajouter et récupercuter la suppression sur votre repo github
+
+# Récupérer votre travail
+
+Pour récupérer votre travail sur une autre machine, ou simplement récupérer la dernière version en date, vous devez utiliser la commande `git clone URL_DU_REPO_A_CLONER`
+
+Par exemple : 
+`git clone https://github.com/JackAdamsJenkins/coursgithub.git`
