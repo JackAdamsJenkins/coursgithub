@@ -1,4 +1,4 @@
-# Les commandes de base deGithub
+# Les commandes de base de Github
 
 ## Première étape : initialiser un repo
 
