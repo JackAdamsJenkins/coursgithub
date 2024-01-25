@@ -150,3 +150,19 @@ Relatif à l'issue #123
 
 Pour la rédaction de vos fichiers Readme, n'hésitez pas à vous pencher sur la documentation markdown. Voici un lien pour vous aider :
 [Lien pour apprendre le markdown](https://programminghistorian.org/fr/lecons/debuter-avec-markdown)
+
+## Eviter d'envoyer des fichiers/dossiers sur Github
+
+Vous avez la possibilité de dire a github qu'il y a certains fichiers et dossiers que vous ne souhaitez pas partager sur votre repository.
+
+Pour cela vous allez devoir :
+* Créer un fichier .gitignore à la racine de votre dossier
+* Dans le fichier .gitignore, vous devez ajouter ligne par ligne les fichiers/dossiers que vous ne souhaitez pas ajouter à votre repository
+
+### Exemple
+
+Fichier .gitignore :
+```
+.code.js
+./css
+```
