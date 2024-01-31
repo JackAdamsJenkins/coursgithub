@@ -6,5 +6,15 @@
 4. Faire un Pull Request
 
 
-# Exercice partie 2
+## Exercice partie 2
 Lorsqu'une personne a effectuer un PR sur votre repo, validez sa demande
+
+---
+
+# Exercice 2 
+* Forkez le repo : https://github.com/JackAdamsJenkins/coursgithub
+* Créer un fichier avec votre nom dans le dossier **modification**, par exemple : jean-louis.md
+* Dans le fichier que vous venez de créer, ajoutez la date du jour et l'heure de sa création
+* Faites votre Pull Request
+* Prévenez moi que vous avez réalisé le Pull Request
+
